@@ -1,0 +1,59 @@
+{
+    "SaveTime": "2025-08-30T10:22:37.0519216+07:00",
+    "BagData": {
+        "PlotAmount": 3,
+        "TomatoSeed": 10,
+        "BlueberrySeed": 10,
+        "StrawberrySeed": 0,
+        "CowAmount": 3,
+        "WorkerAmount": 1,
+        "EquipmentLevel": 1,
+        "CoinAmount": 0.0
+    },
+    "SellData": {
+        "TomatoAmount": 0,
+        "BlueberryAmount": 0,
+        "StrawberryAmount": 0,
+        "MilkAmount": 0
+    },
+    "WorkersData": {
+        "IdleWorker": 0,
+        "Workers": [
+            {
+                "IsFree": false,
+                "StartTime": "2025-08-30T10:22:35.2593203+07:00"
+            }
+        ]
+    },
+    "PlotsData": {
+        "Plots": [
+            {
+                "ProductionUnit": {
+                    "ProductType": 0,
+                    "IsProducing": false,
+                    "StartProduceTime": ""
+                },
+                "IsEmpty": true,
+                "CanHarvest": false
+            },
+            {
+                "ProductionUnit": {
+                    "ProductType": 0,
+                    "IsProducing": false,
+                    "StartProduceTime": ""
+                },
+                "IsEmpty": true,
+                "CanHarvest": false
+            },
+            {
+                "ProductionUnit": {
+                    "ProductType": 0,
+                    "IsProducing": false,
+                    "StartProduceTime": ""
+                },
+                "IsEmpty": true,
+                "CanHarvest": false
+            }
+        ]
+    }
+}

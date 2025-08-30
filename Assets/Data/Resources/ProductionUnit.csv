@@ -1,0 +1,5 @@
+ID,Name,ProductionTime,OutputAmount,MaxAmount,TimeDestroy
+1,Tomato,10,1,40,60
+2,Blueberry,15,1,40,60
+3,Strawberry,5,1,20,60
+4,Cow,30,1,100,60
